@@ -1,15 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Leke — Toolsmith Engineer
 
-Here are some ideas to get you started:
+> I build tools, not just apps. From serverless APIs to offline AI workbenches, my craft spans across backend systems, native mobile, and desktop platforms.
 
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning [RUST]!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🧰 About Me
+
+I'm a **polyglot product engineer** focused on building things that **solve real problems** with discipline, clarity, and performance.
+
+- 🧱 **Backend Systems** (Node.js, TypeScript, PHP, Convex, PostgreSQL)
+- 📱 **Android Engineering** (Kotlin, Jetpack Compose, InCallService, RoleManager)
+- 🍎 **macOS App Development** (Swift, AppKit, SwiftUI, sandboxed apps)
+- 🌍 **WordPress Plugin Dev** (Gutenberg integration, AJAX loaders, custom blocks)
+- 🧠 **AI Tools** (Electron-based local inference platforms)
+- 🛠 **Custom CLI & Frameworks** (Runestone PHP framework, internal toolchains)
+
+---
+
+## 🔨 Current Projects
+
+| Project            | Stack / Focus                                      | Description |
+|--------------------|----------------------------------------------------|-------------|
+| **📋 Xclip**        | Swift, macOS                                       | Clipboard utility app for macOS with offline-first design |
+| **📞 AutoCall**     | Kotlin, Compose, Android Telephony                 | Custom dialer + auto-answer app with UI and call control |
+| **🧠 Cognitron**    | Node.js, Electron, Local AI                        | Offline AI workbench for secure, sandboxed inference |
+| **🪨 Runestone**    | PHP, Tailwind, Symfony Console                     | Clean, CLI-powered PHP framework with modern dev ergonomics |
+| **🧑‍💼 FreelancePro** | Node.js, Convex, RBAC, Feature Flags               | Tiered SaaS platform with strict limits and access control |
+| **🧩 GutenBridge**  | Editor.js, CodeIgniter, WordPress                  | Server-side bridge sending custom block content to Gutenberg |
+| **📦 LoadKit**      | WP Plugin, JS, AJAX                                | Dynamic post loader + related content injector for WP |
+
+---
+
+## ⚙️ Tooling Philosophy
+
+> **“If it feels handcrafted, it probably was.”**
+
+I write code that:
+- Solves actual pain points.
+- Respects system boundaries (OS-level, security, network).
+- Leaves space for others to build on top.
+
+I'm not in love with frameworks — I'm in love with **clarity**.
+
+---
+
+## 📫 Let's Build
+
+I'm open to:
+- High-trust contract work
+- Dev tools / infra-focused collaboration
+- Building something from scratch that actually matters
+
+Reach me on [LinkedIn](#) or [Twitter](#) — or just fork something and open a PR.
+
+---
+
+> ⚒️ *From clipboard to call stack, from function to feature — I craft the tool that fits the hand.*  
+
 
 
 
