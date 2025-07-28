@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leke — Toolsmith Engineer
+# 👋 Hi, I'm Leke — Full Stack Software Engineer
 
 > I build tools, not just apps. From serverless APIs to offline AI workbenches, my craft spans across backend systems, native mobile, and desktop platforms.
 
