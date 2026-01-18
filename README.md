@@ -8,12 +8,12 @@
 
 I'm a **polyglot product engineer** focused on building things that **solve real problems** with discipline, clarity, and performance.
 
-- 🧱 **Backend Systems** (Node.js, TypeScript, PHP, Convex, PostgreSQL)
-- 📱 **Android Engineering** (Kotlin, Jetpack Compose, InCallService, RoleManager)
-- 🍎 **macOS App Development** (Swift, AppKit, SwiftUI, sandboxed apps)
-- 🌍 **WordPress Plugin Dev** (Gutenberg integration, AJAX loaders, custom blocks)
-- 🧠 **AI Tools** (Electron-based local inference platforms)
-- 🛠 **Custom CLI & Frameworks** (Runestone PHP framework, internal toolchains)
+- 🧱 **Backend Systems** (Python, Node.js, PostgreSQL, Supabase, PHP)
+- 📱 **Mobile App Engineering** (Kotlin, Java, React Native, Swift)
+- 🌐 **Web Development** (React, TypeScript, Next.js, Tanstack Start)
+- 🖥 **Desktop Applications** (Electron, SwiftUI, React Native macOS/Windows)
+- ✒️ **The Weaver** (Poetry & Abstract thought structure on [Substack](https://devweaver.substack.com))
+- 🍳 **The Culinarian** (Analog IDE: Cooking & Flavor debugging)
 
 ---
 
@@ -21,13 +21,11 @@ I'm a **polyglot product engineer** focused on building things that **solve real
 
 | Project            | Stack / Focus                                      | Description |
 |--------------------|----------------------------------------------------|-------------|
-| **📋 Xclip**        | Swift, macOS                                       | Clipboard utility app for macOS with offline-first design |
-| **📞 AutoCall**     | Kotlin, Compose, Android Telephony                 | Custom dialer + auto-answer app with UI and call control |
-| **🧠 Cognitron**    | Node.js, Electron, Local AI                        | Offline AI workbench for secure, sandboxed inference |
-| **🪨 Runestone**    | PHP, Tailwind, Symfony Console                     | Clean, CLI-powered PHP framework with modern dev ergonomics |
-| **🧑‍💼 FreelancePro** | Node.js, Convex, RBAC, Feature Flags               | Tiered SaaS platform with strict limits and access control |
-| **🧩 GutenBridge**  | Editor.js, CodeIgniter, WordPress                  | Server-side bridge sending custom block content to Gutenberg |
-| **📦 LoadKit**      | WP Plugin, JS, AJAX                                | Dynamic post loader + related content injector for WP |
+| **Veris**          | Tanstack Start, NestJS, Postgres, LLMs             | Personal startup ecosystem. Architected for scalability and high-availability. |
+| **Moodjournal**    | React Native, TypeScript, Supabase                 | Digital well-being platform focusing on privacy and low-latency interaction. |
+| **Ubycohub**       | React, Tailwind, Framer Motion                     | High-conversion landing architecture for a tech hub ecosystem. |
+| **Oyo Crime Alert**| PHP, Laravel, MySQL                                | Mission-critical backend and management dashboard for state security. |
+| **NCC Tracking**   | Python, Real-time Processing, Big Data             | Live phone number lookup and tracking infrastructure. |
 
 ---
 
@@ -51,13 +49,11 @@ I'm open to:
 - Dev tools / infra-focused collaboration
 - Building something from scratch that actually matters
 
-Reach me on [LinkedIn](#) or [Twitter](#) — or just fork something and open a PR.
+Reach me on [Instagram](https://instagram.com/a-short-dev) or [Twitter](https://x.com/a_short_dev) — or just fork something and open a PR.
 
 ---
 
 > ⚒️ *From clipboard to call stack, from function to feature — I craft the tool that fits the hand.*  
-
-
 
 
 ## 🌐 Socials:
